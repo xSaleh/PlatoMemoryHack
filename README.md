@@ -45,6 +45,3 @@ This tool is designed for the **Windows desktop version** of the [Plato App](htt
 You can download the official game client from the link below:
 
 🔗 **Official Download:** [https://platoapp.com/en/download](https://platoapp.com/en/download)
-
-ذ```sdd
-ذذذ
