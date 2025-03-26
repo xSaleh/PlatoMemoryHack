@@ -1,5 +1,7 @@
 # PlatoMemoryHack
 
+![Demo Screenshot](screenshot.png)
+
 A simple and effective memory scanner for the Plato App, built with Python to track and modify in-game values.
 This tool mimics basic Cheat Engine functionality, allowing users to:
 
