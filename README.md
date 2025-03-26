@@ -1,6 +1,6 @@
 # PlatoMemoryHack
 
-![Demo Screenshot](screenshot.png)
+<img src="screenshot.png" width="400"/>
 
 A simple and effective memory scanner for the Plato App, built with Python to track and modify in-game values.
 This tool mimics basic Cheat Engine functionality, allowing users to:
@@ -15,7 +15,7 @@ This tool mimics basic Cheat Engine functionality, allowing users to:
 
 1. Launch the **Plato App**.
 2. Run the script and enter the current value you'd like to scan.
-3. Perform an in-game action that changes that value.
+3. Now go buy something in-game, then press Enter to continue...
 4. Enter the new value to filter and confirm matching memory addresses.
 5. Set your own custom value to be written into memory.
 
