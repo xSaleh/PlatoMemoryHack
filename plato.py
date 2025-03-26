@@ -69,15 +69,15 @@ pm = pymem.Pymem()
 pm.open_process_from_id(pid)
 
 # First Scan
-old_val = int(input("🎯 Enter current value (before buying): ").strip())
-print("🔎 Scanning...")
+old_val = int(input("Enter current value (before buying): ").strip())
+print("Scanning...")
 initial_results = scan_for_value(pm, old_val)
-print(f"✅ Found {len(initial_results)} matches")
+print(f"Found {len(initial_results)} matches")
 
 # Next Scan
 input("\nNow go buy something in-game, then press Enter to continue...")
 
-new_val = int(input("🔄 Enter new value (after buying): ").strip())
+new_val = int(input("Enter new value (after buying): ").strip())
 filtered_results = filter_by_new_value(pm, initial_results, new_val)
 print(f"Filtered to {len(filtered_results)} matching addresses")
 
