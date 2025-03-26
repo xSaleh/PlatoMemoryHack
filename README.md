@@ -31,9 +31,9 @@ This tool mimics basic Cheat Engine functionality, allowing users to:
 
 To install the necessary Python dependencies, run:
 
-<pre> ```
+<pre>
 pip install -r requirements.txt
- ``` </pre>
+</pre>
 
  ---
 
